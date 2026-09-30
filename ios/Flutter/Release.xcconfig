@@ -1,0 +1,4 @@
+#include "Generated.xcconfig"
+
+// AdMob app id (Info.plist GADApplicationIdentifier). Google test id; replace with the real iOS id before release.
+ADMOB_APP_ID = ca-app-pub-3940256099942544~1458002511
